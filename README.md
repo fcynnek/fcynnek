@@ -29,8 +29,8 @@ const kchengfung = {
   productivity: "Microsoft Office",
   ide: [VS Code, Eclipse, IntelliJ, Sublime Text, PyCharm],
   communities: {
-                international: "UN Globe",
-                lgbt: "Out in Tech"
+                lgbt: "UN Globe",
+                tech: "Out in Tech"
                 },
 }
 ```
