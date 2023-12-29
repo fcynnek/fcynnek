@@ -4,8 +4,8 @@
 
 <p><em><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWlzZm83MjFqdnBld2E5ZWN4a2YzczB0NmdidGRoOGx0amIxdnh6OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kV36fMDNAMQsXDxVz3/giphy.gif" width="30", style="vertical-align: middle; display: inline-block;"> Enterprise System Manager at <a href="http://www.un.org/">United Nations </a>
 </br><img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="30"> Java Full Stack Bootcamp Student at <a href="https://www.coderscampus.com/">Coders Campus </a>
-</br><img src="https://media.giphy.com/media/UTBLCDQAyPFnOTsQxr/giphy.gif" width="30"> Master Thesis Pending in Computational Linguistics at <a href="https://www.gc.cuny.edu/">CUNY, Grad Center </a>
-</br><img src="https://media.giphy.com/media/QsY8yp5q4atcQ/giphy.gif" width="30"> Bachelors in Psycho-Socio Linguistics at <a href="https://www.qc.cuny.edu/">CUNY, Queens College </a>
+</br><img src="https://media.giphy.com/media/UTBLCDQAyPFnOTsQxr/giphy.gif" width="30"> Master Thesis Pending in Computational Linguistics from <a href="https://www.gc.cuny.edu/">CUNY, Grad Center </a>
+</br><img src="https://media.giphy.com/media/QsY8yp5q4atcQ/giphy.gif" width="30"> Bachelors in Psycho-Socio Linguistics from <a href="https://www.qc.cuny.edu/">CUNY, Queens College </a>
 </em></p>
 
 [![Linkedin: kchengfung](https://img.shields.io/badge/-kchengfung-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kchengfung/)](https://www.linkedin.com/in/kchengfung/)
