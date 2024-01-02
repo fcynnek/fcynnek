@@ -2,17 +2,17 @@
 
 ## Welcome to my GitHub, I'm Kenny and I am a Full Stack Java Developer
 
-<p><em><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWlzZm83MjFqdnBld2E5ZWN4a2YzczB0NmdidGRoOGx0amIxdnh6OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kV36fMDNAMQsXDxVz3/giphy.gif" width="30"; height="30"> Enterprise System Manager at <a href="http://www.un.org/">United Nations </a>
-</br><img src="https://media.giphy.com/media/PI3QGKFN6XZUCMMqJm/giphy.gif" width="30"; height="30"> Java Full Stack Bootcamp Student at <a href="https://www.coderscampus.com/">Coders Campus </a>
-</br><img src="https://media.giphy.com/media/HUplkVCPY7jTW/giphy.gif" width="30"; height="30"> Master Thesis Pending in Computational Linguistics from <a href="https://www.gc.cuny.edu/">CUNY, Grad Center </a>
-</br><img src="https://media.giphy.com/media/QsY8yp5q4atcQ/giphy.gif" width="30"; height="30"> Bachelors in Psycho-Socio Linguistics from <a href="https://www.qc.cuny.edu/">CUNY, Queens College </a>
+<p><em><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWlzZm83MjFqdnBld2E5ZWN4a2YzczB0NmdidGRoOGx0amIxdnh6OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kV36fMDNAMQsXDxVz3/giphy.gif" width="30"; height="30"; style="vertical-align: middle;"> Enterprise System Manager at <a href="http://www.un.org/">United Nations </a>
+</br><img src="https://media.giphy.com/media/PI3QGKFN6XZUCMMqJm/giphy.gif" width="30"; height="30"; style="vertical-align: middle;"> Java Full Stack Bootcamp Student at <a href="https://www.coderscampus.com/">Coders Campus </a>
+</br><img src="https://media.giphy.com/media/HUplkVCPY7jTW/giphy.gif" width="30"; height="30"; style="vertical-align: middle;"> Master Thesis Pending in Computational Linguistics from <a href="https://www.gc.cuny.edu/">CUNY, Grad Center </a>
+</br><img src="https://media.giphy.com/media/QsY8yp5q4atcQ/giphy.gif" width="30"; height="30"; style="vertical-align: middle;"> Bachelors in Psycho-Socio Linguistics from <a href="https://www.qc.cuny.edu/">CUNY, Queens College </a>
 </em></p>
 
 [![Linkedin: kchengfung](https://img.shields.io/badge/-kchengfung-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kchengfung/)](https://www.linkedin.com/in/kchengfung/)
 [![GitHub fcynnek](https://img.shields.io/github/followers/fcynnek?label=follow&style=social)](https://github.com/fcynnek)
 
 
-### <img src="https://media.giphy.com/media/pLgom5kv8PLnG/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/pLgom5kv8PLnG/giphy.gif" width="50"; style="vertical-align: middle;"> A little more about me...  
 
 ```javascript
 const kchengfung = {
