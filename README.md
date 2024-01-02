@@ -12,7 +12,7 @@
 [![GitHub fcynnek](https://img.shields.io/github/followers/fcynnek?label=follow&style=social)](https://github.com/fcynnek)
 
 
-### <img src="https://media.giphy.com/media/pLgom5kv8PLnG/giphy.gif" width="50"; style="vertical-align: middle;"> A little more about me...  
+### <img src="https://media.giphy.com/media/pLgom5kv8PLnG/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
 const kchengfung = {
