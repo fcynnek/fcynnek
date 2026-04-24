@@ -1,6 +1,6 @@
 ## </ Hello World >
 
-## Welcome to my GitHub, I'm Kenny and I am a Full Stack Java Developer
+## Welcome to my GitHub, I'm Kenny and I am a Product Lead and Full Stack Java Developer
 
 <p><em><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWlzZm83MjFqdnBld2E5ZWN4a2YzczB0NmdidGRoOGx0amIxdnh6OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kV36fMDNAMQsXDxVz3/giphy.gif" width="30"; height="30"; style="vertical-align: middle;"> Enterprise System Manager at <a href="http://www.un.org/">United Nations </a>
 </br><img src="https://media.giphy.com/media/PI3QGKFN6XZUCMMqJm/giphy.gif" width="30"; height="30"; style="vertical-align: middle;"> Java Full Stack Bootcamp Student at <a href="https://www.coderscampus.com/">Coders Campus </a>
